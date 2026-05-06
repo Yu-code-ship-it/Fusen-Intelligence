@@ -1,5 +1,6 @@
 # Fusen-Intelligence Building AI course project 
-Fusen Intelligence: An AI-powered Meaning Generation and Decision-Making Support System Building AI course project 
+Fusen Intelligence: An AI-powered Meaning Generation and Decision-Making Support System (Building AI course project)
+
 # Fusen Intelligence: An AI-powered Meaning Generation and Decision-Making Support System
 ## Summary
 Fusen Intelligence is an AI-powered system that supports meaning generation, self-understanding, and decision-making by recording small insights, feelings, conditions, and values as “fusen,” or sticky-note-like units of meaning.
