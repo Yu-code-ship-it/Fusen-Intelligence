@@ -45,19 +45,3 @@ In the future, it may develop into:
 As a next step, I would like to create a simple prototype in which users can create fusen, classify them, and see possible relationships between them.
 ## Acknowledgments
 I would like to thank all the people, ideas, conversations, books, and experiences that inspired this project.
-
-[Next Steps]
-
-This concept combines
-
-a mechanism for generating thoughts (generation)
-
-with a mechanism for selecting thoughts (selection),
-
-and has the potential to evolve into
-
-a “meaning-generation system” and a “decision-making model.”
-
-[Acknowledgments]
-
-To all the people and things that inspired me.
